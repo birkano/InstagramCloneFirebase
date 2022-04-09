@@ -3,13 +3,13 @@
 <plist version="1.0">
 <dict>
 	<key>CLIENT_ID</key>
-	<string>733853571771-9ol4ou2i79sf9tv8rbe5g5049fq8dtc2.apps.googleusercontent.com</string>
+	<string>-.apps.googleusercontent.com</string>
 	<key>REVERSED_CLIENT_ID</key>
-	<string>com.googleusercontent.apps.733853571771-9ol4ou2i79sf9tv8rbe5g5049fq8dtc2</string>
+	<string>com.googleusercontent.apps.</string>
 	<key>API_KEY</key>
-	<string>AIzaSyBRWF3V1yF9MAQSrSpZ6WiETZjHYNq12Qw</string>
+	<string></string>
 	<key>GCM_SENDER_ID</key>
-	<string>733853571771</string>
+	<string></string>
 	<key>PLIST_VERSION</key>
 	<string>1</string>
 	<key>BUNDLE_ID</key>
@@ -17,7 +17,7 @@
 	<key>PROJECT_ID</key>
 	<string>instagramclonefirebase-8c7d9</string>
 	<key>STORAGE_BUCKET</key>
-	<string>instagramclonefirebase-8c7d9.appspot.com</string>
+	<string>-.appspot.com</string>
 	<key>IS_ADS_ENABLED</key>
 	<false></false>
 	<key>IS_ANALYTICS_ENABLED</key>
@@ -29,6 +29,6 @@
 	<key>IS_SIGNIN_ENABLED</key>
 	<true></true>
 	<key>GOOGLE_APP_ID</key>
-	<string>1:733853571771:ios:811171f0075b48ddba679e</string>
+	<string>1::ios:</string>
 </dict>
 </plist>
